@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Francesco Della Porta welcomes and invites you to read and browse further.
+Francesco Della Porta invites you to read and browse further.
 
 ## Table of Contents
 
