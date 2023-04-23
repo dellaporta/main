@@ -8,6 +8,10 @@ Francesco Della Porta invites you to read and browse further.
 
 ### 2. [`Linux: Deploy BOSH Lite for Cloud Foundry to your local space`](https://gist.github.com/dellaporta/59472d9c6ebd387fde8c9ac0ebaa6282)
 
+### 3. [`macOS: Deploy BOSH Lite for Kubernetes to your kube-system namespace`](https://gist.github.com/dellaporta/b4a73488028a7b3a6a24345a7f303314)
+
+### 4. [`Linux: Deploy BOSH Lite for Kubernetes to your kube-system namespace`](https://gist.github.com/dellaporta/f90a5559fe5bcd0f4988e07dc9277a30)
+
 ___
 ### General
 
