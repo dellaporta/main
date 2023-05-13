@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
+title: Welcome to my GitHub Pages
+description: My Main GitHub Pages
 show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
