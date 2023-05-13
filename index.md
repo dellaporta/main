@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to GitHub Pages
 
 I invite you to read and browse further.
