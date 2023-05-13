@@ -1,8 +1,4 @@
----
-layout: default
----
-
-## Welcome to GitHub Pages
+## Welcome to my GitHub pages
 
 I invite you to read and browse further.
 
