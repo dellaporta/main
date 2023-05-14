@@ -4,7 +4,7 @@ I invite you to read and browse further.
 
 {% include toc.html %}
 
-## Table of Contents
+## Work in progress
 
 ### 1. [`macOS: Deploy BOSH Lite for Cloud Foundry to your local space`](https://gist.github.com/dellaporta/2e9a6c1a6b8757ea33a2b1c0a44a9318)
 
