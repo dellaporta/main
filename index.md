@@ -1,5 +1,4 @@
-* 
-{:toc}
+{% include toc.html %}
 
 ## Welcome to GitHub pages
 
