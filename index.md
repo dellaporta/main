@@ -1,4 +1,4 @@
-{% include toc.html html=content %}
+{% include toc.html html=* %}
 
 ## Welcome to GitHub pages
 
