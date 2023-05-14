@@ -5,3 +5,5 @@ google_analytics: [My Google Analytics tracking ID]
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-toc
+kramdown:
+  parse_block_html: true
