@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-toc
 toc:
-    min_level: 2
+    min_level: 3
     max_level: 3
 kramdown:
   parse_block_html: true
