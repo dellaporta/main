@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "Welcome to Jekyll!"
-toc: true
 ---
 
 {% include toc.html %}
