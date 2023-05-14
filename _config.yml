@@ -5,5 +5,8 @@ google_analytics: [My Google Analytics tracking ID]
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-toc
+toc:
+    min_level: 2
+    max_level: 3
 kramdown:
   parse_block_html: true
