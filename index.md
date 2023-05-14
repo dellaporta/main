@@ -3,6 +3,7 @@ title: "Welcome to Jekyll!"
 toc: true
 ---
 
+{{ content }}
 {% include toc.html html=content %}
 
 ## Welcome to GitHub pages
