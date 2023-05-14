@@ -9,7 +9,7 @@ title: "Welcome to Jekyll!"
 I invite you to read and browse further.
 
 ## Table of Contents
-
+{:.no_toc}
 ### 1. [`macOS: Deploy BOSH Lite for Cloud Foundry to your local space`](https://gist.github.com/dellaporta/2e9a6c1a6b8757ea33a2b1c0a44a9318)
 
 ### 2. [`Linux: Deploy BOSH Lite for Cloud Foundry to your local space`](https://gist.github.com/dellaporta/59472d9c6ebd387fde8c9ac0ebaa6282)
@@ -17,7 +17,7 @@ I invite you to read and browse further.
 ### 3. [`macOS: Deploy BOSH Lite for Kubernetes to your kubo-lite cluster`](https://gist.github.com/dellaporta/b4a73488028a7b3a6a24345a7f303314)
 
 ### 4. [`Linux: Deploy BOSH Lite for Kubernetes to your kubo-lite cluster`](https://gist.github.com/dellaporta/f90a5559fe5bcd0f4988e07dc9277a30)
-
+{:toc}
 ___
 ### General
 
