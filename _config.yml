@@ -3,10 +3,5 @@ description: My Main GitHub Pages
 show_downloads: true
 google_analytics: [My Google Analytics tracking ID]
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-toc
-toc:
-    min_level: 3
-    max_level: 3
 kramdown:
   parse_block_html: true
