@@ -1,4 +1,10 @@
-## Welcome to my GitHub pages
+---
+layout: post
+title: "Welcome to Jekyll!"
+toc: true
+---
+
+## Welcome to GitHub pages
 
 I invite you to read and browse further.
 
