@@ -1,5 +1,8 @@
-<nav>
-  <h4 class="toc_title">On This Page</h4>
-    * this unordered seed list will be replaced by toc as unordered list
-  {:toc}
-</nav>
+<div>
+  <div id="table-of-contents">
+    {{ content | toc_only }}
+  </div>
+  <div id="markdown-content">
+    {{ content | inject_anchors }}
+  </div>
+</div>
