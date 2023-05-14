@@ -1,8 +1,8 @@
-{% include toc.html %}
-
 ## Welcome to GitHub pages
 
 I invite you to read and browse further.
+
+{% include toc.html %}
 
 ## Table of Contents
 
